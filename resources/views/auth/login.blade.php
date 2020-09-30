@@ -43,6 +43,6 @@
                 @endif
             </div>
         </form>
-        <p>Nalom edu adalah</p>
+        
     </x-jet-authentication-card>
 </x-guest-layout>
